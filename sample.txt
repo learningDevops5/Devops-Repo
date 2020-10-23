@@ -1,4 +1,4 @@
-
+What is a commit message ?
 The command that is used to write a commit message is “git commit -a”.
 Now explain about -a flag by saying -a on the command line instructs git to commit the new content of all tracked files that have been modified. Also, mention you can use “git add <file>” before git commit -a if new files need to be committed for the first time.
 
